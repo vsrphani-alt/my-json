@@ -1,14 +1,9 @@
 [
-{  "CLIENT":100,
+{  "CLIENT":null,
    "EMPID":1,
    "EMPNAME":"RAVI",
     "SAL":10000
 },
 
-{  "CLIENT":100,
-   "EMPID":2,
-   "EMPNAME":"HARI",
-   "SAL":30000 
-},
 
 ]
